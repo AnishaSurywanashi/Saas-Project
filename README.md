@@ -130,6 +130,3 @@ The `vercel.json` routes `/api/*` requests to the Express serverless function in
 
 ---
 
-## 📄 License
-
-MIT © 2026 AlgoInsight
